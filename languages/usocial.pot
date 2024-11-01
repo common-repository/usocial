@@ -1,0 +1,119 @@
+#. Plugin name
+msgid "USOCIAL — Кнопки поделиться для социальных сетей"
+msgstr ""
+
+#. Description
+msgid "uSocial – конструктор для создания кнопок поделиться и мне нравится для сайта."
+msgstr ""
+
+#. Create set button
+msgid "Создать набор"
+msgstr ""
+
+#. My sets
+msgid "Мои наборы"
+msgstr ""
+
+#. .uSocial-Share customize
+msgid "Используйте класс .uSocial-Share для стилизации кнопок поделиться."
+msgstr ""
+
+#. Create set title
+msgid "Создание набора "
+msgstr ""
+
+#. Edit set title
+msgid "Редактирование набора "
+msgstr ""
+
+#. ID set title
+msgid "ID набора в uSocial"
+msgstr ""
+
+#. Placeholder ID set
+msgid "Запишите ID набора"
+msgstr ""
+
+#. uSocial script title
+msgid "Код кнопок"
+msgstr ""
+
+#. uSocial script placeholder
+msgid "Вставьте сюда код набора «Поделиться» сгенерированный на странице uSocial"
+msgstr ""
+
+#. Body text radio-button
+msgid "Body"
+msgstr ""
+
+#. H1 text radio-button
+msgid "Заголовок H1"
+msgstr ""
+
+#. Product page text radio-button
+msgid "Карточка товара"
+msgstr ""
+
+#. Save set button
+msgid "Сохранить"
+msgstr ""
+
+#. Cancel button
+msgid "Отмена"
+msgstr ""
+
+#. Date create
+msgid "Дата создания"
+msgstr ""
+
+#. Display Location
+msgid "Расположение"
+msgstr ""
+
+#. Action
+msgid "Действия"
+msgstr ""
+
+#. Empty sets list
+msgid "У вас пока нет созданных наборов"
+msgstr ""
+
+#. Area display location
+msgid "Где хотите отобразить кнопки на сайте?"
+msgstr ""
+
+#. Error-1
+msgid "Укажите верный ID набора."
+msgstr ""
+
+#. Error-2
+msgid "Вы не ввели сгенерированный код."
+msgstr ""
+
+#. Error-3
+msgid "Вы добавили максимальное количество наборов."
+msgstr ""
+
+#. Error-4
+msgid "Вы неверно указали место отображения кнопок."
+msgstr ""
+
+#. Link-question-1
+msgid "https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-dlya-ustanovki-knopok#usocial-id"
+msgstr ""
+
+#. Link-question-2
+msgid "https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-dlya-ustanovki-knopok#button-display"
+msgstr ""
+
+#. Link-site
+msgid "https://usocial.pro/"
+msgstr ""
+
+#. Settings
+msgid "Настройки"
+msgstr ""
+
+#. Delete set
+msgid "Удалить набор №"
+msgstr ""

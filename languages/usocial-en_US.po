@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: USOCIAL – Кнопки поделиться для социальных сетей\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-30 21:53+0000\n"
+"PO-Revision-Date: 2021-06-29 16:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#. Body text radio-button
+msgid "Body"
+msgstr "Body"
+
+#. Link-question-2
+msgid ""
+"https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-"
+"dlya-ustanovki-knopok#button-display"
+msgstr ""
+"https://help.usocial.pro/en/knowledge-bases/2/articles/53-wordpress-button-"
+"installation-plugin#button-display"
+
+#. Link-question-1
+msgid ""
+"https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-"
+"dlya-ustanovki-knopok#usocial-id"
+msgstr ""
+"https://help.usocial.pro/en/knowledge-bases/2/articles/53-wordpress-button-"
+"installation-plugin#usocial-id"
+
+#. Link-site
+msgid "https://usocial.pro/"
+msgstr "https://usocial.pro/en/"
+
+#. ID set title
+msgid "ID набора в uSocial"
+msgstr "Set ID on uSocial"
+
+#. Description
+msgid ""
+"uSocial – конструктор для создания кнопок поделиться и мне нравится для "
+"сайта."
+msgstr ""
+"uSocial is a modern, user-friendly Like and Share button builder for your "
+"website. "
+
+#. Plugin name
+msgid "USOCIAL — Кнопки поделиться для социальных сетей"
+msgstr "USOCIAL - Share buttons for social networks"
+
+#. uSocial script placeholder
+msgid ""
+"Вставьте сюда код набора «Поделиться» сгенерированный на странице uSocial"
+msgstr "Enter the code of the Share button set generated on the uSocial page"
+
+#. Error-3
+msgid "Вы добавили максимальное количество наборов."
+msgstr "You've added the maximum number of sets."
+
+#. Error-2
+msgid "Вы не ввели сгенерированный код."
+msgstr "You didn't enter the generated code."
+
+#. Error-4
+msgid "Вы неверно указали место отображения кнопок."
+msgstr ""
+"You have incorrectly specified the place where the buttons are displayed."
+
+#. Area display location
+msgid "Где хотите отобразить кнопки на сайте?"
+msgstr "Where do you want the buttons to be displayed on the site?"
+
+#. Date create
+msgid "Дата создания"
+msgstr "Creation date"
+
+#. Action
+msgid "Действия"
+msgstr "Actions"
+
+#. H1 text radio-button
+msgid "Заголовок H1"
+msgstr "H1 heading"
+
+#. Placeholder ID set
+msgid "Запишите ID набора"
+msgstr "Enter the set ID"
+
+#. .uSocial-Share customize
+msgid "Используйте класс .uSocial-Share для стилизации кнопок поделиться."
+msgstr "Use the .uSocial-Share class to style the Share buttons."
+
+#. Product page text radio-button
+msgid "Карточка товара"
+msgstr "Product card"
+
+#. uSocial script title
+msgid "Код кнопок"
+msgstr "Button code"
+
+#. My sets
+msgid "Мои наборы"
+msgstr "My sets"
+
+#. Settings
+msgid "Настройки"
+msgstr "Settings"
+
+#. Cancel button
+msgid "Отмена"
+msgstr "Cancel"
+
+#. Display Location
+msgid "Расположение"
+msgstr "Location"
+
+#. Edit set title
+msgid "Редактирование набора "
+msgstr "Edit my set "
+
+#. Create set title
+msgid "Создание набора "
+msgstr "Create a button set "
+
+#. Create set button
+msgid "Создать набор"
+msgstr "Create a button set"
+
+#. Save set button
+msgid "Сохранить"
+msgstr "Save"
+
+#. Empty sets list
+msgid "У вас пока нет созданных наборов"
+msgstr "You haven't created any sets yet"
+
+#. Delete set
+msgid "Удалить набор №"
+msgstr "Delete my set №"
+
+#. Error-1
+msgid "Укажите верный ID набора."
+msgstr "Enter the correct set ID."

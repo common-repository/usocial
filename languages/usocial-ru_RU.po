@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: USOCIAL – Кнопки поделиться для социальных сетей\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-30 21:50+0000\n"
+"PO-Revision-Date: 2021-06-29 16:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#. Body text radio-button
+msgid "Body"
+msgstr "Body"
+
+#. Link-question-2
+msgid ""
+"https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-"
+"dlya-ustanovki-knopok#button-display"
+msgstr ""
+"https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-"
+"dlya-ustanovki-knopok#button-display"
+
+#. Link-question-1
+msgid ""
+"https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-"
+"dlya-ustanovki-knopok#usocial-id"
+msgstr ""
+"https://help.usocial.pro/ru/knowledge-bases/2/articles/53-wordpress-plagin-"
+"dlya-ustanovki-knopok#usocial-id"
+
+#. Link-site
+msgid "https://usocial.pro/"
+msgstr "https://usocial.pro/"
+
+#. ID set title
+msgid "ID набора в uSocial"
+msgstr "ID набора в uSocial"
+
+#. Description
+msgid ""
+"uSocial – конструктор для создания кнопок поделиться и мне нравится для "
+"сайта."
+msgstr ""
+"uSocial – конструктор для создания кнопок поделиться и мне нравится для "
+"сайта."
+
+#. Plugin name
+msgid "USOCIAL — Кнопки поделиться для социальных сетей"
+msgstr "USOCIAL — Кнопки поделиться для социальных сетей"
+
+#. uSocial script placeholder
+msgid ""
+"Вставьте сюда код набора «Поделиться» сгенерированный на странице uSocial"
+msgstr ""
+"Вставьте сюда код набора «Поделиться» сгенерированный на странице uSocial"
+
+#. Error-3
+msgid "Вы добавили максимальное количество наборов."
+msgstr "Вы добавили максимальное количество наборов."
+
+#. Error-2
+msgid "Вы не ввели сгенерированный код."
+msgstr "Вы не ввели сгенерированный код."
+
+#. Error-4
+msgid "Вы неверно указали место отображения кнопок."
+msgstr "Вы неверно указали место отображения кнопок."
+
+#. Area display location
+msgid "Где хотите отобразить кнопки на сайте?"
+msgstr "Где хотите отобразить кнопки на сайте?"
+
+#. Date create
+msgid "Дата создания"
+msgstr "Дата создания"
+
+#. Action
+msgid "Действия"
+msgstr "Действия"
+
+#. H1 text radio-button
+msgid "Заголовок H1"
+msgstr "Заголовок H1"
+
+#. Placeholder ID set
+msgid "Запишите ID набора"
+msgstr "Запишите ID набора"
+
+#. .uSocial-Share customize
+msgid "Используйте класс .uSocial-Share для стилизации кнопок поделиться."
+msgstr "Используйте класс .uSocial-Share для стилизации кнопок поделиться."
+
+#. Product page text radio-button
+msgid "Карточка товара"
+msgstr "Карточка товара"
+
+#. uSocial script title
+msgid "Код кнопок"
+msgstr "Код кнопок"
+
+#. My sets
+msgid "Мои наборы"
+msgstr "Мои наборы"
+
+#. Settings
+msgid "Настройки"
+msgstr "Настройки"
+
+#. Cancel button
+msgid "Отмена"
+msgstr "Отмена"
+
+#. Display Location
+msgid "Расположение"
+msgstr "Расположение"
+
+#. Edit set title
+msgid "Редактирование набора "
+msgstr "Редактирование набора "
+
+#. Create set title
+msgid "Создание набора "
+msgstr "Создание набора "
+
+#. Create set button
+msgid "Создать набор"
+msgstr "Создать набор"
+
+#. Save set button
+msgid "Сохранить"
+msgstr "Сохранить"
+
+#. Empty sets list
+msgid "У вас пока нет созданных наборов"
+msgstr "У вас пока нет созданных наборов"
+
+#. Delete set
+msgid "Удалить набор №"
+msgstr "Удалить набор №"
+
+#. Error-1
+msgid "Укажите верный ID набора."
+msgstr "Укажите верный ID набора."
